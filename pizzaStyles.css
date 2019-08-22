@@ -1,0 +1,23 @@
+body {
+	background-color: skyblue;
+	color: navy;
+	font-family: "Times New Roman", Times, serif;
+}	
+
+#heading {
+	border: 5px solid orangered;
+	text-align: center;
+	font-size: 36px;
+}
+
+.meat {
+	color: brown;
+}
+
+.veggie {
+	color: green;
+}
+
+.cheese {
+	color: darkorange;
+}
