@@ -7,7 +7,8 @@ body {
 #heading {
 	border: 5px solid orangered;
 	text-align: center;
-	font-size: 36px;
+	font-size: 2em;
+	font-weight: bold;
 }
 
 .meat {
